@@ -1,0 +1,13 @@
+.imageOne {
+  height: 80%;
+  width: 20%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  box-sizing: content-box;
+  border: 5px solid black;
+  padding: 50px;
+  margin: 20px;
+}
